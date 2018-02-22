@@ -21,4 +21,4 @@ link:https://github.com/ByeongSoon/TIL/tree/master/DesignPattern[여기]
 
 === 목차
 
-** 커피자판기 프로그램(singleTon, State, Decorator)
+** 커피자판기 프로그램(singleTon, State, Decorator 적용)
